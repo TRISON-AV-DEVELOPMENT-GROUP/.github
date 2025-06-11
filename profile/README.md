@@ -8,10 +8,6 @@
   <i>Desarrollamos la nueva generación de sistemas de control audiovisual</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/TRISON-AV-DEVELOPMENT-GROUP/.github?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🌐 ¿Quiénes somos?
